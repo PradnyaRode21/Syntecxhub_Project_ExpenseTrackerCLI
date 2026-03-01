@@ -54,3 +54,6 @@ Date filtering and monthly aggregation
 Basic data visualization
 
 Clean and structured Python coding practices
+
+![WhatsApp Image 2026-03-01 at 7 36 28 PM](https://github.com/user-attachments/assets/b6cfda6b-2140-429a-9ba7-6fb526326067)
+
